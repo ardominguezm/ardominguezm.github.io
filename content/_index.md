@@ -41,8 +41,7 @@ sections:
       title: '🔬 Research Focus'
       subtitle: ''
       text: |-
-        My research explores the geometry and topology of complex systems through  
-        **persistent homology**, **network curvature**, and **spectral analysis**.
+        My research explores the geometry and topology of complex systems through persistent homology, network curvature, and spectral analysis.
 
         Key domains include:
         - **Financial market dynamics**
