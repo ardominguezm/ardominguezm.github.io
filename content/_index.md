@@ -22,10 +22,12 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+      #headings:
+       # about: ''
+       # education: ''
+       # interests: ''
+       headings: {}
+
 
     design:
       css_class: hbx-bg-gradient
