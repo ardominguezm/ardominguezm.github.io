@@ -1,135 +1,142 @@
 ---
 # Display name
-title: Andy Domínguez
+title: "Andy Domínguez"
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Andy
-last_name: Domínguez
+first_name: "Andy"
+last_name: "Domínguez"
 
-# Pronouns (optional)
-pronouns: he/him
+# Pronouns
+pronouns: "he/him"
 
 # Status emoji
 status:
-  icon: 
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight name
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: "Researcher"
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations
 organizations:
-  - name: Decision Analysis and Statistics Group (GASG), UPM
-    url: https://www.dasg.upm.es/index.html
+  - name: "Decision Analysis and Statistics Group (GASG), UPM"
+    url: "https://www.dasg.upm.es/index.html"
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: "mailto:ardominguezm@gmail.com"
+    label: "Email Me"
 
+  - icon: brands/x
+    url: "https://twitter.com/TU_USUARIO"
+
+  - icon: brands/github
+    url: "https://github.com/ardominguezm"
+
+  - icon: brands/linkedin
+    url: "https://www.linkedin.com/in/ANDY_LINKEDIN/"
+
+  - icon: academicons/google-scholar
+    url: "https://scholar.google.com/citations?user=TU_ID"
+
+  - icon: academicons/orcid
+    url: "https://orcid.org/0000-0002-1825-0097"
+
+# Interests
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Topological Data Analysis
+  - Complex Systems
+  - Computational Finance
+  - EEG & Physiology
+  - Ricci Curvature & Network Geometry
+
+# Education
 education:
-  - area: PhD (c) in Mathematical Engineering, Statistics and Operations Research. (ML Focus)
-    institution: Universidad Complutense de Madrid, Spain
+  - area: "PhD(c) in Mathematical Engineering, Statistics and Operations Research (ML Focus)"
+    institution: "Universidad Complutense de Madrid, Spain"
     icon: ""
     summary: |
-      Thesis on Topological Data Anlaysis and Geometrical Approach to Complex Networks. Supervised by Prof. Antonio Jímenez-Martín (UPM) y Alfonso Mateos-Castellano (UPM). Published 4 papers in journals JCR/Scopus.
-    
-   - area: Msc Applied Mathematics and Advanced Physics
-     institution: Universitat de Les Illes Balears, Spain
-    
-   - area: Bsc Mechanical Engineering
-     institution: Universidad Nacional de Colombia, Bogotá D.C
-     icon: ""
-    #date_start: 2009-09-01
-    #date_end: 2013-05-31
-         Thesis with laureate mention
+      Thesis on Topological Data Analysis and Geometric Approaches to Complex Networks. 
+      Supervised by Prof. Antonio Jiménez-Martín and Alfonso Mateos-Castellano (UPM). 
+      Published 4 papers in JCR/Scopus journals.
 
-work:
-  - position: PhD researcher
-    company_name: DASG
-    company_url: 'https://ai.meta.com/](https://www.dasg.upm.es/index.html'
-    icon: ''
-    date_start: 2022-01-01
-    date_end: ''
-    summary: |2-
-      Research on topological data analysis, Geometry network, machine learning in complex systems.
-    
-  - position: Assistant Professor and Data Science Program Director
-    company_name: Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia.
-    company_url: 'https://www.utb.edu.co'
-    icon: ''
-    date_start: 2019-07-15
-    date_end: 2019-12-15
+  - area: "MSc Applied Mathematics and Advanced Physics"
+    institution: "Universitat de les Illes Balears, Spain"
+    icon: ""
+
+  - area: "BSc Mechanical Engineering"
+    institution: "Universidad Nacional de Colombia, Bogotá"
+    icon: ""
     summary: |
-      Teaching in Statistics and Probability courses. Supervisor in Master Data Science & Applied Statistics. 
+      Thesis with laureate mention.
+
+# Work Experience
+work:
+  - position: "PhD Researcher"
+    company_name: "DASG - UPM"
+    company_url: "https://www.dasg.upm.es/index.html"
+    icon: ""
+    date_start: "2022-01-01"
+    date_end: ""
+    summary: |
+      Research on topological data analysis, network geometry, and machine learning applied to complex systems.
+
+  - position: "Assistant Professor and Data Science Program Director"
+    company_name: "Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia"
+    company_url: "https://www.utb.edu.co"
+    icon: ""
+    date_start: "2019-07-15"
+    date_end: "2019-12-15"
+    summary: |
+      Teaching undergraduate and graduate courses in statistics, data science, and analytics. 
+      Supervisor in Master in Data Science & Applied Statistics.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
         percent: 95
         icon: code-bracket
       - name: Machine Learning
-        description: ''
         percent: 100
         icon: chart-bar
       - name: Cloud Computing (AWS/GCP)
-        description: ''
         percent: 85
         icon: cloud
+
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
-      - name: Runner
-        description: 'Marathoner for 20+ years'
+      - name: Running
+        description: "Marathoner"
         percent: 80
         icon: person-running
-      
-      - name: Sci-Fi Reading
-        description: ''
+      - name: Reading
+        description: "Sci-Fi & Philosophy"
         percent: 70
         icon: book-open
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Undergraduated Best Thesis Award
-      summary: |
-      Fractal Geometry for Alzheimer's disease.
-  - title: Banco Santander Ibero-American Scholarship
-      summary: |
-      grant for master's studies.
+  - title: "Undergraduate Best Thesis Award"
+    awarder: "Universidad Nacional de Colombia"
+    summary: |
+      Fractal geometry for Alzheimer's disease.
+
+  - title: "Banco Santander Ibero-American Scholarship"
+    awarder: "Banco Santander"
+    summary: |
+      Scholarship for master's studies.
 ---
 
-I study topological data analysis and geometric methods with machine learning approaches for the analysis of complex systems, with applications in financial markets, physiology, and neuroscience.
