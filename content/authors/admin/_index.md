@@ -146,4 +146,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I study topological and geometric methods for complex systems, with applications in financial markets, physiology, and neuroscience.
+I study topological data analysis and geometric methods with machine learning approaches for the analysis of complex systems, with applications in financial markets, physiology, and neuroscience.
