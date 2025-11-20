@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Andy Domínguez
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Andy
+last_name: Domínguez
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Decision Analysis and Statistics Group, UPM
+    url: https://www.dasg.upm.es/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,11 +54,11 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD (c) in Mathematical Engineering, Statistics and Operations Research. (ML Focus)
+    institution: Universidad Complutense de Madrid, Spain
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    #date_start: 2015-09-01
+    #date_end: 2019-06-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
