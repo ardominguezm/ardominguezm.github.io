@@ -12,7 +12,7 @@ sections:
   ##########################################
   # 1) BIO + PHOTO + CV BUTTON (Research focus)
   ##########################################
-  - block: resume-biography-3
+  - block: resume-biography-2
     content:
       username: admin
       text: |-
