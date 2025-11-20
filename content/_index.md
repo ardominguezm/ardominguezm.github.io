@@ -16,16 +16,7 @@ sections:
     content:
       username: admin
       text: |-
-        I am a researcher working at the intersection of **Topological Data Analysis (TDA)**,  
-        **Ricci curvature**, and **Random Matrix Theory**, with applications in  
-        **financial markets**, **EEG & physiology**, and **complex systems**.
-
-        My work focuses on extracting multi-scale geometric and topological signatures from  
-        high-dimensional data to improve interpretability, pattern discovery, and modeling  
-        of real-world phenomena.  
-
-        I aim to bridge mathematical rigor, computational methods, and data-driven science  
-        to understand complexity in finance, neuroscience, and biomedical signals.
+        I am driven by a deep curiosity about how structure and complexity emerge in the world. My research blends ideas from topology data analysis, networks geometry, statistical  physics and data science to uncover patterns hidden within high-dimensional data. This exploration has taken me across disciplines, from financial markets, physiological signals, human performance, artistic and linguistic patterns, and computational social science. I enjoy building bridges between mathematical theory and real-world phenomena, using quantitative methods to reveal the shapes, rhythms, and dynamics that govern both human and natural systems
 
       button:
         text: Download CV
