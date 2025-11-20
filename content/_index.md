@@ -22,13 +22,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-      #headings:
-       # about: ''
-       # education: ''
-       # interests: ''
-       headings: {}
-
-
+      headings:{}
+       
     design:
       css_class: hbx-bg-gradient
       avatar:
