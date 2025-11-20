@@ -52,7 +52,6 @@ interests:
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
-
 education:
   - area: PhD (c) in Mathematical Engineering, Statistics and Operations Research. (ML Focus)
     institution: Universidad Complutense de Madrid, Spain
