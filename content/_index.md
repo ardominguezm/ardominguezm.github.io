@@ -12,6 +12,11 @@ sections:
   ##########################################
   # 1) BIO + PHOTO + CV BUTTON (Research focus)
   ##########################################
+    - block: resume-biography-2
+    content:
+      username: admin
+      text: |-
+      
   I am driven by a scientific curiosity about how structure and complexity emerge in the world. My research blends ideas from topological data analysis, network geometry, statistical physics, and data science to uncover patterns hidden within high-dimensional data. This exploration has led me across disciplines, from financial markets and physiological signals to human performance, and even to the textures of art, poetry, and collective behavior in computational social science. I enjoy building bridges between mathematical theory and real-world phenomena, using quantitative methods to reveal the shapes, rhythms, and dynamics that govern both human and natural systems.
 
       button:
