@@ -37,7 +37,7 @@ profiles:
     label: "Email Me"
 
   - icon: brands/x
-    url: "https://twitter.com/TU_USUARIO"
+    url: "https://x.com/andydominguezm"
   
   - icon: brands/substack
     url: "https://substack.com/@andydominguezm"
