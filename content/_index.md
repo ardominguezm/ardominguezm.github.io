@@ -16,7 +16,7 @@ sections:
     content:
       username: admin
       text: |-
-        I am driven by a deep curiosity about how structure and complexity emerge in the world. My research blends ideas from topology data analysis, networks geometry, statistical  physics and data science to uncover patterns hidden within high-dimensional data. This exploration has taken me across disciplines, from financial markets, physiological signals, human performance, artistic and linguistic patterns, and computational social science. I enjoy building bridges between mathematical theory and real-world phenomena, using quantitative methods to reveal the shapes, rhythms, and dynamics that govern both human and natural systems
+        I am driven by a scientific curiosity about how structure and complexity emerge in the world. My research blends ideas from topological data analysis, network geometry, statistical physics, and data science to uncover patterns hidden within high-dimensional data. This exploration has led me across disciplines—from financial markets and physiological signals to human performance, and even to the textures of art, poetry, and collective behavior in computational social science. I enjoy building bridges between mathematical theory and real-world phenomena, using quantitative methods to reveal the shapes, rhythms, and dynamics that govern both human and natural systems.
 
       button:
         text: Download CV
@@ -47,8 +47,7 @@ sections:
         - **Fractality & multifractal models**
         - **AI-based classification pipelines grounded in topology and geometry**
 
-        I am always open to collaborations involving complex systems, data-driven modeling,  
-        and advanced mathematical tools.
+        I am always open to collaborations involving complex systems, data-driven modeling, and advanced mathematical tools.
 
     design:
       columns: '1'
