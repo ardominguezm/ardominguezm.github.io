@@ -22,7 +22,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-      headings:{}
+      headings: {}
        
     design:
       css_class: hbx-bg-gradient
