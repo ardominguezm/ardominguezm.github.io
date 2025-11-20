@@ -56,8 +56,6 @@ education:
   - area: PhD (c) in Mathematical Engineering, Statistics and Operations Research. (ML Focus)
     institution: Universidad Complutense de Madrid, Spain
     icon: ""
-    #date_start: 2015-09-01
-    #date_end: 2019-06-30
     summary: |
       Thesis on Topological Data Anlaysis and Geometrical Approach to Complex Networks. Supervised by Prof. Antonio Jímenez-Martín (UPM) y Alfonso Mateos-Castellano (UPM). Published 4 papers in journals JCR/Scopus.
     
