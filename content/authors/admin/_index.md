@@ -65,9 +65,9 @@ education:
    - area: Msc Applied Mathematics and Advanced Physics
      institution: Universitat de Les Illes Balears, Spain
     
-  - area: Bsc Mechanical Engineering
-    institution: Universidad Nacional de Colombia, Bogotá D.C
-    icon: ""
+   - area: Bsc Mechanical Engineering
+     institution: Universidad Nacional de Colombia, Bogotá D.C
+     icon: ""
     #date_start: 2009-09-01
     #date_end: 2013-05-31
          Thesis with laureate mention
