@@ -27,7 +27,7 @@ role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Decision Analysis and Statistics Group, UPM
+  - name: Decision Analysis and Statistics Group (GASG), UPM
     url: https://www.dasg.upm.es/index.html
 
 # Social network links
@@ -60,46 +60,41 @@ education:
     #date_start: 2015-09-01
     #date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Thesis on Topological Data Anlaysis and Geometrical Approach to Complex Networks. Supervised by Prof. Antonio Jímenez-Martín (UPM) y Alfonso Mateos-Castellano (UPM). Published 4 papers in journals JCR/Scopus.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com/thesis.pdf'
+  - area: Msc Applied Mathematics and Advanced Physics
+    institution: Universitat de Les Illes Balears, Spain
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    #date_start: 2013-09-01
+    #date_end: 2015-05-31
+    
+  - area: Bsc Mechanical Engineering
+    institution: Universidad Nacional de Colombia, Bogotá D.C
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    #date_start: 2009-09-01
+    #date_end: 2013-05-31
+         Thesis with laureate mention
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: PhD researcher
+    company_name: DASG
+    company_url: 'https://ai.meta.com/](https://www.dasg.upm.es/index.html'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2022-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Research on topological data analysis, Geometry network, machine learning in complex systems.
+    
+  - position: Assistant Professor and Data Science Program Director
+    company_name: Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia.
+    company_url: 'https://www.utb.edu.co'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2019-07-15
+    date_end: 2019-12-15
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Teaching in Statistics and Probability courses. Supervisor in Master Data Science & Applied Statistics. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,37 +117,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
+      - name: Runner
+        description: 'Marathoner for 20+ years'
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
+        icon: person-running
+      
       - name: Sci-Fi Reading
         description: ''
         percent: 70
         icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+  - title: Undergraduated Best Thesis Award
+      summary: |
+      Fractal Geometry for Alzheimer's disease.
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
