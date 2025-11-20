@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: ""
+role: "Researcher"
 
 # Organizations/Affiliations
 organizations:
