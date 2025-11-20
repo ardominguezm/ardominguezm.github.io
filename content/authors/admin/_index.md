@@ -61,9 +61,9 @@ education:
     #date_end: 2019-06-30
     summary: |
       Thesis on Topological Data Anlaysis and Geometrical Approach to Complex Networks. Supervised by Prof. Antonio Jímenez-Martín (UPM) y Alfonso Mateos-Castellano (UPM). Published 4 papers in journals JCR/Scopus.
-   
-  - area: Msc Applied Mathematics and Advanced Physics
-    institution: Universitat de Les Illes Balears, Spain
+    
+   - area: Msc Applied Mathematics and Advanced Physics
+     institution: Universitat de Les Illes Balears, Spain
     
   - area: Bsc Mechanical Engineering
     institution: Universidad Nacional de Colombia, Bogotá D.C
