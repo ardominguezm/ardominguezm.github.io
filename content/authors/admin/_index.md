@@ -127,20 +127,9 @@ awards:
   - title: Undergraduated Best Thesis Award
       summary: |
       Fractal Geometry for Alzheimer's disease.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  - title: Banco Santander Ibero-American Scholarship
+      summary: |
+      grant for master's studies.
 ---
 
 I study topological data analysis and geometric methods with machine learning approaches for the analysis of complex systems, with applications in financial markets, physiology, and neuroscience.
