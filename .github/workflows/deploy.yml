@@ -29,19 +29,17 @@ jobs:
       with:
         fetch-depth: 0
 
-    # 1️⃣ Node
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: ${{ env.NODE_VERSION }}
 
-    # 2️⃣ Install pnpm
+    # 🟩 USAR LA MISMA VERSIÓN DE PNPM QUE package.json
     - name: Setup pnpm
       uses: pnpm/action-setup@v4
       with:
-        version: 9
+        version: 10.14.0
 
-    # 3️⃣ Install Tailwind CLI + deps WITHOUT frozen lockfile
     - name: Install Tailwind dependencies
       run: |
         if [ -f "package.json" ]; then
@@ -49,7 +47,6 @@ jobs:
           pnpm install --no-frozen-lockfile
         fi
 
-    # 4️⃣ Setup Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
@@ -60,15 +57,13 @@ jobs:
       id: pages
       uses: actions/configure-pages@v5
 
-    # 5️⃣ Build Hugo (Tailwind will run automatically)
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
       run: |
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-    # 6️⃣ Pagefind (optional)
-    - name: Build search index
+    - name: Generate pagefind index
       run: |
         if [ -f "package.json" ] && grep -q "pagefind" package.json; then
           pnpm dlx pagefind --source "public"
@@ -93,4 +88,3 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
-
