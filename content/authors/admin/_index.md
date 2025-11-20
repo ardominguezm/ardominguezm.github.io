@@ -69,7 +69,6 @@ education:
     icon: ""
     #date_start: 2013-09-01
     #date_end: 2015-05-31
-    
   - area: Bsc Mechanical Engineering
     institution: Universidad Nacional de Colombia, Bogotá D.C
     icon: ""
