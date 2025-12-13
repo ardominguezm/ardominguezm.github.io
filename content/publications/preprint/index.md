@@ -1,7 +1,7 @@
 ---
 title: "Multifractal luminance and aesthetic complexity in Van Gogh’s paintings"
 authors:
-- Andy Domínguez-Monterroza
+- Admin
 
 date: "2025-09-01T00:00:00Z"
 publishDate: "2025-09-01T00:00:00Z"
