@@ -1,7 +1,7 @@
 ---
 title: "Age-dependent patterns of cardiac complexity unveiled by topological data analysis"
 authors:
-- Andy Domínguez-Monterroza
+- Admin
 - Alfonso Mateos-Caballero
 - Antonio Jiménez-Martín
 
