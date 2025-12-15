@@ -27,7 +27,7 @@ role: "Researcher"
 
 # Organizations/Affiliations
 organizations:
-  - name: "Decision Analysis and Statistics Group (GASG), UPM"
+  - name: "Decision Analysis and Statistics Group (DASG), UPM"
     url: "https://www.dasg.upm.es/index.html"
 
 # Social network links
@@ -38,7 +38,7 @@ profiles:
 
   - icon: brands/x
     url: "https://x.com/andydominguezm"
-  
+
   - icon: brands/substack
     url: "https://substack.com/@andydominguezm"
 
@@ -68,8 +68,8 @@ education:
     institution: "Universidad Complutense de Madrid, Spain"
     icon: ""
     summary: |
-      Thesis on Topological Data Analysis and Geometric Approaches to Complex Networks. 
-      Supervised by Prof. Antonio Jiménez-Martín and Alfonso Mateos-Castellano (UPM). 
+      Thesis on Topological Data Analysis and Geometric Approaches to Complex Networks.
+      Supervised by Prof. Antonio Jiménez-Martín and Alfonso Mateos-Castellano (UPM).
       Published 4 papers in JCR/Scopus journals.
 
   - area: "MSc Applied Mathematics and Advanced Physics"
@@ -92,15 +92,15 @@ work:
     date_end: ""
     summary: |
       Research on topological data analysis, network geometry, and machine learning applied to complex systems.
-    
- - position: "Assistant Professor and Data Science Program Director"
+
+  - position: "Assistant Professor and Data Science Program Director"
     company_name: "Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia"
     company_url: "https://www.utb.edu.co"
     icon: ""
     date_start: "2019-07-15"
     date_end: "2024-12-15"
     summary: |
-      Teaching undergraduate and graduate courses in statistics, data science, and analytics. 
+      Teaching undergraduate and graduate courses in statistics, data science, and analytics.
       Supervisor in Master in Data Science & Applied Statistics.
 
   - position: "Assistant Professor in Statistics"
@@ -110,7 +110,8 @@ work:
     date_start: "2013-08-01"
     date_end: "2019-07-15"
     summary: |
-      Teaching undergraduate and graduate courses in statistics, time series, probability, data science, and analytics. 
+      Teaching undergraduate and graduate courses in statistics, time series, probability,
+      data science, and analytics.
       Supervisor in Specialization in Applied Mathematics.
 
 # Skills
@@ -152,4 +153,3 @@ awards:
     summary: |
       Scholarship for master's studies.
 ---
-
