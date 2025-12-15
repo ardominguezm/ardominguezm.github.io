@@ -92,8 +92,7 @@ work:
     date_end: ""
     summary: |
       Research on topological data analysis, network geometry, and machine learning applied to complex systems.
-
-  - position: "Assistant Professor and Data Science Program Director"
+ - position: "Assistant Professor and Data Science Program Director"
     company_name: "Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia"
     company_url: "https://www.utb.edu.co"
     icon: ""
