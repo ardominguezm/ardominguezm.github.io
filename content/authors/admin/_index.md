@@ -92,6 +92,7 @@ work:
     date_end: ""
     summary: |
       Research on topological data analysis, network geometry, and machine learning applied to complex systems.
+    
  - position: "Assistant Professor and Data Science Program Director"
     company_name: "Universidad Tecnológica de Bolívar, Cartagena de Indias, Colombia"
     company_url: "https://www.utb.edu.co"
@@ -102,7 +103,7 @@ work:
       Teaching undergraduate and graduate courses in statistics, data science, and analytics. 
       Supervisor in Master in Data Science & Applied Statistics.
 
-    - position: "Assistant Professor in Statistics"
+  - position: "Assistant Professor in Statistics"
     company_name: "Politécnico Grancolombiano, Bogotá D.C, Colombia"
     company_url: "https://www.poli.edu.co"
     icon: ""
