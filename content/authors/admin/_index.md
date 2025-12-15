@@ -80,7 +80,7 @@ education:
     institution: "Universidad Nacional de Colombia, Bogotá"
     icon: ""
     summary: |
-      Thesis with laureate mention.
+      Thesis with honors.
 
 # Work Experience
 work:
@@ -98,10 +98,20 @@ work:
     company_url: "https://www.utb.edu.co"
     icon: ""
     date_start: "2019-07-15"
-    date_end: "2019-12-15"
+    date_end: "2024-12-15"
     summary: |
       Teaching undergraduate and graduate courses in statistics, data science, and analytics. 
       Supervisor in Master in Data Science & Applied Statistics.
+
+    - position: "Assistant Professor in Statistics"
+    company_name: "Politécnico Grancolombiano, Bogotá D.C, Colombia"
+    company_url: "https://www.poli.edu.co"
+    icon: ""
+    date_start: "2013-08-01"
+    date_end: "2019-07-15"
+    summary: |
+      Teaching undergraduate and graduate courses in statistics, time series, probability, data science, and analytics. 
+      Supervisor in Specialization in Applied Mathematics.
 
 # Skills
 skills:
@@ -133,7 +143,7 @@ skills:
 # Awards
 awards:
   - title: "Undergraduate Best Thesis Award"
-    awarder: "Universidad Nacional de Colombia"
+    awarder: "Universidad Nacional de Colombia, Bogotá D.C"
     summary: |
       Fractal geometry for Alzheimer's disease.
 
