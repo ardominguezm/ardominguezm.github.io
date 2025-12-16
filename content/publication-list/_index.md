@@ -22,73 +22,79 @@ type: page
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
 
-4. **Domínguez-Monterroza A.**  
+   4. **Domínguez-Monterroza A.**  
+   **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  
+   *(under review)* — *Annals of Biomedical Engineering, Oct 2025.*  
+   Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
+
+
+5. **Domínguez-Monterroza A.**  
    **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
    *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
    Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
 
-5. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+6. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
 
-6. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+7. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Network geometry, topology, and spectral analysis in global stock markets: Insights  
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
    *PLOS ONE*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link)
 
-7. **Domínguez-Monterroza A.**  
+8. **Domínguez-Monterroza A.**  
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/19m4uv1gg3prX4OUYtC_DjdI62_VmSEMt/view)
 
-8. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+9. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Topological Data Analysis to characterize fluctuations in the Latin American Integrated Market (MILA).**  
    *Communications in Computer and Information Science*, Springer, 2023.  
    DOI: [10.1007/978-3-031-46739-4_18](https://doi.org/10.1007/978-3-031-46739-4_18)
 
-9. **Domínguez-Monterroza A.**  
+10. **Domínguez-Monterroza A.**  
    **Multifractal luminance and aesthetic complexity in Van Gogh’s paintings.**  
    *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2025 (accepted).  
    Preprint: [link](https://drive.google.com/file/d/11IIiWybj5dlLiM33PcOjyoegji1L9LGp/view?usp=sharing)
 
-10. **Domínguez-Monterroza A.**  
+11. **Domínguez-Monterroza A.**  
     **How the sky bends: A differential-geometric reading of Van Gogh’s *The Starry Night*.**  
     *Journal of Mathematics and the Arts*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/15kj-ecHJEi6em4XSoCCmuNNL_iS8zUDm/view?usp=sharing)
 
-11. **Sierra-Porta D., Domínguez-Monterroza A.**  
+12. **Sierra-Porta D., Domínguez-Monterroza A.**  
     **Linking cosmic ray intensities to cutoff rigidity through multifractal detrented fluctuation analysis.**  
     *Physica A*, Volume 607, 1 December 2023, 128159.  
     DOI: [10.1016/j.physa.2022.128159](https://doi.org/10.1016/j.physa.2022.128159)
 
-12. **Sandoval-Díaz L., Aragon-Quiroz J., Ruíz-Cardona Y., Domínguez-Monterroza A., Trujillo C.**  
+13. **Sandoval-Díaz L., Aragon-Quiroz J., Ruíz-Cardona Y., Domínguez-Monterroza A., Trujillo C.**  
     **Fractal analysis at mesopore scale of modified USY zeolites by nitrogen adsorption: A classical thermodynamic approach.**  
     *Microporous and Mesoporous Materials*.  
     DOI: [10.1016/j.micromeso.2016.08.030](http://dx.doi.org/10.1016/j.micromeso.2016.08.030)
 
-13. **Domínguez-Monterroza A.**  
+14. **Domínguez-Monterroza A.**  
     **Universal Collapse and Sex-Dependent Scaling Laws in Marathon Performance: A Statistical Physics Approach to Human Aging.**  
     *Physica A*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1INMSfebA26VwmLlaiTB5qtzdM42UZaKI/view?usp=sharing)
 
-14. **Domínguez-Monterroza A.**  
+15. **Domínguez-Monterroza A.**  
     **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra.**  
     *Scatterplot: The MAA Journal of Data Science*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1FgRHrDwadPNkcGExesBlv-CquVqlTfBI/view?usp=sharing)
 
-15. **Domínguez-Monterroza A.**  
+16. **Domínguez-Monterroza A.**  
     **Mathematics on TikTok: Democratization or Distortion?**  
     *The Mathematical Intelligencer*, 2025 (accepted).  
     Preprint: [link](https://drive.google.com/file/d/1LrqcKUHye8LOm1ue2XxXIAkdq5eB4M7Y/view?usp=sharing)
 
-16. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
+17. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
     **Multidimensional perspective of poverty in Colombian households.**  
     *Revista Sociedad y Economía*, 44, 2021.  
     DOI: [10.25100/sye.v0i44.10734](https://doi.org/10.25100/sye.v0i44.10734)
 
-17. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
+18. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
     **Spatial fractal behavior in the lengthening of cerebral bloodstream distribution in Alzheimer disease.**  
     *Revista Cubana de Investigaciones Biomédicas*, 30(3), 2011.  
     Full text: [link](http://scielo.sld.cu/scielo.php?script=sci_abstract&pid=S0864-03002011000300012)
