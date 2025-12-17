@@ -72,27 +72,33 @@ type: page
     *Microporous and Mesoporous Materials*.  
     DOI: [10.1016/j.micromeso.2016.08.030](http://dx.doi.org/10.1016/j.micromeso.2016.08.030)
 
-14. **Domínguez-Monterroza A.**  
+14. **Gomez R., Ghotme K., Nino J., Quiroz-Padilla M., Vargas D., Dominguez-Monterroza A., Barreto G., Sanchez M.**  
+   **Combined strategy for a reliable evaluation of spinal cord injury using an in vivo model.**  
+   *Central Nervous System Agents In Medicinal Chemistry*, Vol 18, Issue 1, 2018.  
+   DOI: [10.2174/1871524915666150819104114](http://dx.doi.org/10.2174/1871524915666150819104114)
+
+
+15. **Domínguez-Monterroza A.**  
     **Universal Collapse and Sex-Dependent Scaling Laws in Marathon Performance: A Statistical Physics Approach to Human Aging.**  
     *Physica A*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1INMSfebA26VwmLlaiTB5qtzdM42UZaKI/view?usp=sharing)
 
-15. **Domínguez-Monterroza A.**  
+16. **Domínguez-Monterroza A.**  
     **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra.**  
     *Scatterplot: The MAA Journal of Data Science*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1FgRHrDwadPNkcGExesBlv-CquVqlTfBI/view?usp=sharing)
 
-16. **Domínguez-Monterroza A.**  
+17. **Domínguez-Monterroza A.**  
     **Mathematics on TikTok: Democratization or Distortion?**  
     *The Mathematical Intelligencer*, 2025 (accepted).  
     Preprint: [link](https://drive.google.com/file/d/1LrqcKUHye8LOm1ue2XxXIAkdq5eB4M7Y/view?usp=sharing)
 
-17. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
+18. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
     **Multidimensional perspective of poverty in Colombian households.**  
     *Revista Sociedad y Economía*, 44, 2021.  
     DOI: [10.25100/sye.v0i44.10734](https://doi.org/10.25100/sye.v0i44.10734)
 
-18. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
+19. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
     **Spatial fractal behavior in the lengthening of cerebral bloodstream distribution in Alzheimer disease.**  
     *Revista Cubana de Investigaciones Biomédicas*, 30(3), 2011.  
     Full text: [link](http://scielo.sld.cu/scielo.php?script=sci_abstract&pid=S0864-03002011000300012)
