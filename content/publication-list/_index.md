@@ -79,9 +79,10 @@ type: page
 
 
 15. **Domínguez-Monterroza A.**  
-    **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
-    *Chaos, Solitons & Fractals *, 2025 (submitted).  
-    Preprint: [link]([https://drive.google.com/file/d/1INMSfebA26VwmLlaiTB5qtzdM42UZaKI/view?usp=sharing](https://drive.google.com/file/d/1lzMj0xNfOElTkDn8Sw6k4xz0S0-jf5A0/view?usp=sharing))
+   **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
+   *Chaos, Solitons & Fractals*, 2025 (submitted).  
+   Preprint: [link](https://drive.google.com/file/d/1lzMj0xNfOElTkDn8Sw6k4xz0S0-jf5A0/view?usp=sharing)
+
 
 16. **Domínguez-Monterroza A.**  
     **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra.**  
