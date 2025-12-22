@@ -10,52 +10,53 @@ type: page
    *PLOS ONE*, 20(11): e0337620, 2025.  
    DOI: [10.1371/journal.pone.0337620](https://doi.org/10.1371/journal.pone.0337620)
 
-2. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+2.  **Andy Domínguez-Monterroza.**  
+   **Multifractal luminance and aesthetic complexity in van Gogh’s paintings.**  
+   *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(12): 123140, 1 December 2025.  
+   DOI: [10.1063/5.0307352](https://doi.org/10.1063/5.0307352)
+
+3. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice  
    Data with Spectral, Topological, and Random Matrix Methods.**  
    *IEEE Open Journal of Computer Society*, 2025 (accepted).  
    Preprint: [link](https://drive.google.com/file/d/1opH1gVqoSna8lYj7lVOU6eNt0PqMWILW/view)
 
-3. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+4. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
    Convolutional Neural Networks and Synthetic Spectral Image Features.**  
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
 
-4. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
+5. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
 
 
-5. **Domínguez-Monterroza A.**  
+6. **Domínguez-Monterroza A.**  
    **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
    *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
    Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
 
-6. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+7. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
 
-7. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+8. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Network geometry, topology, and spectral analysis in global stock markets: Insights  
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
    *PLOS ONE*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link)
 
-8. **Domínguez-Monterroza A.**  
+9. **Domínguez-Monterroza A.**  
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/19m4uv1gg3prX4OUYtC_DjdI62_VmSEMt/view)
 
-9. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+10. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Topological Data Analysis to characterize fluctuations in the Latin American Integrated Market (MILA).**  
    *Communications in Computer and Information Science*, Springer, 2023.  
    DOI: [10.1007/978-3-031-46739-4_18](https://doi.org/10.1007/978-3-031-46739-4_18)
 
-10. **Domínguez-Monterroza A.**  
-   **Multifractal luminance and aesthetic complexity in Van Gogh’s paintings.**  
-   *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2025 (accepted).  
-   Preprint: [link](https://drive.google.com/file/d/11IIiWybj5dlLiM33PcOjyoegji1L9LGp/view?usp=sharing)
 
 11. **Domínguez-Monterroza A.**  
     **How the sky bends: A differential-geometric reading of Van Gogh’s *The Starry Night*.**  
