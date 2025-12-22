@@ -27,7 +27,7 @@ featured: true
 
 links:
   - type: pdf
-    DOI: [10.1063/5.0307352](https://doi.org/10.1063/5.0307352)
+    url: https://doi.org/10.1063/5.0307352
 image:
   caption: "Multifractal luminance patterns in Van Gogh’s paintings"
   preview_only: false
