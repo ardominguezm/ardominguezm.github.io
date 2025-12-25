@@ -86,7 +86,7 @@ type: page
 
 
 16. **Domínguez-Monterroza A.**  
-    **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra.**  
+    **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra in Data Science Education**  
     *Scatterplot: The MAA Journal of Data Science*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1FgRHrDwadPNkcGExesBlv-CquVqlTfBI/view?usp=sharing)
 
