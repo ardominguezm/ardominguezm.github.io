@@ -27,7 +27,7 @@ role: "Researcher"
 
 # Organizations/Affiliations
 organizations:
-  - name: "Decision Analysis and Statistics Group (DASG), UPM"
+  - name: "Decision Analysis and Statistics Group (DASG), Departament of Artificial Intelligence, Universidad Politécnica de Madrid, Spain"
     url: "https://www.dasg.upm.es/index.html"
 
 # Social network links
