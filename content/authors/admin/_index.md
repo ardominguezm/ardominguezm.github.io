@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "Researcher"
+role: "Researcher in Biomedical Data Science, Complex Systems, Statistical Physics"
 
 # Organizations/Affiliations
 organizations:
