@@ -20,7 +20,7 @@ type: page
    Data with Spectral, Topological, and Random Matrix Methods.**  
    *IEEE Open Journal of Computer Society*, 2025 (accepted).  
    Preprint: [link](https://drive.google.com/file/d/1opH1gVqoSna8lYj7lVOU6eNt0PqMWILW/view)
-   DOI: DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
+   DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
 
 5. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
