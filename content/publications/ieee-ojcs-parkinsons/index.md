@@ -2,7 +2,7 @@
 title: "Machine Learning for Parkinson's Disease Detection: Analyzing Hybrid Voice Data With Spectral, Topological, and Random Matrix Methods"
 
 authors:
-- Andy Domínguez-Monterroza
+- Admin
 - Alfonso Mateos-Caballero
 - Antonio Jiménez-Martín
 
