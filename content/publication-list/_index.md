@@ -10,7 +10,7 @@ type: page
    *PLOS ONE*, 20(11): e0337620, 2025.  
    DOI: [10.1371/journal.pone.0337620](https://doi.org/10.1371/journal.pone.0337620)
 
-2.  **Andy Domínguez-Monterroza.**  
+2.  **Domínguez-Monterroza A.**  
    **Multifractal luminance and aesthetic complexity in van Gogh’s paintings.**  
    *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(12): 123140, 1 December 2025.  
    DOI: [10.1063/5.0307352](https://doi.org/10.1063/5.0307352)
@@ -19,6 +19,15 @@ type: page
    **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice Data with Spectral, Topological, and Random Matrix Methods.**  
    *IEEE Open Journal of Computer Society*,Jan 2026, pp 1-12.
    DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
+
+   
+4. **Domínguez-Monterroza A.**  
+    **Mathematics on TikTok: Democratization or Distortion?**  
+    *The Mathematical Intelligencer*, 2025 (accepted).  
+    Preprint: [[link](https://doi.org/10.1007/s00283-025-10496-w]([https://drive.google.com/file/d/1LrqcKUHye8LOm1ue2XxXIAkdq5eB4M7Y/view?usp=sharing](https://doi.org/10.1007/s00283-025-10496-w
+
+))
+
 
 5. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
@@ -89,17 +98,12 @@ type: page
     *Scatterplot: The MAA Journal of Data Science*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1FgRHrDwadPNkcGExesBlv-CquVqlTfBI/view?usp=sharing)
 
-18. **Domínguez-Monterroza A.**  
-    **Mathematics on TikTok: Democratization or Distortion?**  
-    *The Mathematical Intelligencer*, 2025 (accepted).  
-    Preprint: [link](https://drive.google.com/file/d/1LrqcKUHye8LOm1ue2XxXIAkdq5eB4M7Y/view?usp=sharing)
-
-19. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
+18. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
     **Multidimensional perspective of poverty in Colombian households.**  
     *Revista Sociedad y Economía*, 44, 2021.  
     DOI: [10.25100/sye.v0i44.10734](https://doi.org/10.25100/sye.v0i44.10734)
 
-20. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
+19. **Domínguez-Monterroza A., Garzón-Alvarado D.**  
     **Spatial fractal behavior in the lengthening of cerebral bloodstream distribution in Alzheimer disease.**  
     *Revista Cubana de Investigaciones Biomédicas*, 30(3), 2011.  
     Full text: [link](http://scielo.sld.cu/scielo.php?script=sci_abstract&pid=S0864-03002011000300012)
