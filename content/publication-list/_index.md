@@ -23,7 +23,7 @@ type: page
 4. **Domínguez-Monterroza A.**
    **Mathematics on TikTok: Democratization or Distortion?**  
     *The Mathematical Intelligencer*, Jan 2026.
-   DOI: [10.1007/s00283-025-10496-w](https://doi.org/10.1007/s00283-025-10496-w)
+   DOI:[10.1007/s00283-025-10496-w](https://doi.org/10.1007/s00283-025-10496-w)
    
 6. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
