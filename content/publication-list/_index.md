@@ -5,20 +5,20 @@ type: page
 
 ## Peer-reviewed journal articles (WoS / Scopus)
 
-1. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+1.**Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+   **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice Data with Spectral, Topological, and Random Matrix Methods.**  
+   *IEEE Open Journal of Computer Society*,Jan 2026, pp 1-12.
+   DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
+   
+2. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Age-dependent patterns of cardiac complexity unveiled by topological data analysis.**  
    *PLOS ONE*, 20(11): e0337620, 2025.  
    DOI: [10.1371/journal.pone.0337620](https://doi.org/10.1371/journal.pone.0337620)
 
-2.  **Domínguez-Monterroza A.**  
+3.  **Domínguez-Monterroza A.**  
    **Multifractal luminance and aesthetic complexity in van Gogh’s paintings.**  
    *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(12): 123140, 1 December 2025.  
    DOI: [10.1063/5.0307352](https://doi.org/10.1063/5.0307352)
-
-3. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
-   **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice Data with Spectral, Topological, and Random Matrix Methods.**  
-   *IEEE Open Journal of Computer Society*,Jan 2026, pp 1-12.
-   DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
    
 4. **Domínguez-Monterroza A.**
    **Mathematics on TikTok: Democratization or Distortion?**  
