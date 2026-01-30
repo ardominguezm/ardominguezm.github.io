@@ -5,8 +5,8 @@ type: page
 
 ## Peer-reviewed journal articles (WoS / Scopus)
 
-1.**Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
-   **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice Data with Spectral, Topological, and Random Matrix Methods.**  
+1. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+   **Machine Learning for Parkinson’s Disease Detection: Analyzing Hybrid Voice Data with Spectral, Topological, and Random       Matrix Methods.**  
    *IEEE Open Journal of Computer Society*,Jan 2026, pp 1-12.
    DOI: [10.1109/OJCS.2026.3651318](https://doi.org/10.1109/OJCS.2026.3651318)
    
