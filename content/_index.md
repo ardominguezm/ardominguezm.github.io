@@ -16,7 +16,8 @@ sections:
     content:
       username: admin
       text: |-
-        I am driven by a scientific curiosity about how structure and complexity emerge in the world. My research blends ideas from topological data analysis, complex networks, data science, machine learning and statistical physics to uncover patterns hidden within high-dimensional data. This exploration has led me across disciplines, from financial markets and physiological signals to human performance, and even to the textures of art, poetry, and collective behavior in computational social science. I enjoy building bridges between mathematical theory and real-world phenomena, using quantitative methods to reveal the shapes, rhythms, and dynamics that govern both human and natural systems.
+        I am driven by a deep scientific curiosity about how structure and complexity emerge in the world. My research integrates topological data analysis, data science, machine learning, complex networks, and statistical physics to uncover patterns hidden in high-dimensional data. This interdisciplinary exploration has taken me across diverse domains, ranging from financial markets and physiological signals to human performance, and extending even to the quantitative study of art, poetry, and collective behavior in computational social science.
+     #I am particularly interested in building bridges between mathematical theory and real-world phenomena, using rigorous #quantitative methods to reveal the underlying shapes, rhythms, and dynamics that govern both human and natural systems.
 
       button:
         text: Download CV
