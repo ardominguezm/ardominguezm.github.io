@@ -35,10 +35,10 @@ type: page
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
 
 
-8. **Domínguez-Monterroza A.**  
-   **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
-   *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
-   Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
+#8. **Domínguez-Monterroza A.**  
+ #  **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish #Time Prediction.**  
+ #  *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
+  # Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
 
 9. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
