@@ -30,10 +30,10 @@ type: page
    Convolutional Neural Networks and Synthetic Spectral Image Features.**  
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
-
+<!--
 7. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
-
+-->
 <!--
 8. **Domínguez-Monterroza A.**  
   **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
