@@ -34,17 +34,17 @@ type: page
 7. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
 
-
-#8. **Domínguez-Monterroza A.**  
- #  **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish #Time Prediction.**  
- #  *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
-  # Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
-
+<!--
+8. **Domínguez-Monterroza A.**  
+  **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
+  *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
+ Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
+-->
 9. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
-
+<!--
 10. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Network geometry, topology, and spectral analysis in global stock markets: Insights  
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
@@ -55,18 +55,18 @@ type: page
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/19m4uv1gg3prX4OUYtC_DjdI62_VmSEMt/view)
-
+-->
 12. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Topological Data Analysis to characterize fluctuations in the Latin American Integrated Market (MILA).**  
    *Communications in Computer and Information Science*, Springer, 2023.  
    DOI: [10.1007/978-3-031-46739-4_18](https://doi.org/10.1007/978-3-031-46739-4_18)
 
-
+<!--
 13. **Domínguez-Monterroza A.**  
     **How the sky bends: A differential-geometric reading of Van Gogh’s *The Starry Night*.**  
     *Journal of Mathematics and the Arts*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/15kj-ecHJEi6em4XSoCCmuNNL_iS8zUDm/view?usp=sharing)
-
+-->
 14. **Sierra-Porta D., Domínguez-Monterroza A.**  
     **Linking cosmic ray intensities to cutoff rigidity through multifractal detrented fluctuation analysis.**  
     *Physica A*, Volume 607, 1 December 2023, 128159.  
