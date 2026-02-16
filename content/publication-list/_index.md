@@ -34,7 +34,7 @@ type: page
 7.   **Domínguez-Monterroza A.**  
    **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
    *Chaos, Solitons & Fractals*, 2025 (2n review, minor revisions).  
-   Preprint:  [link]([https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing](https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing))
+   Preprint: [link]([https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing](https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing))
 
 
 9. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
