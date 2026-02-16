@@ -34,17 +34,18 @@ type: page
 7.   **Domínguez-Monterroza A.**  
    **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
    *Chaos, Solitons & Fractals*, 2025 (2n review, minor revisions).  
-   Preprint: https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing
+   Preprint:  [link]([https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing](https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing))
 
-8. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
+
+9. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
    
-9. **Domínguez-Monterroza A.**  
+10. **Domínguez-Monterroza A.**  
   **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
   *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
  Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
 
-10. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+11. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
