@@ -25,42 +25,42 @@ type: page
     *The Mathematical Intelligencer*, Jan 2026.
    DOI:[10.1007/s00283-025-10496-w](https://doi.org/10.1007/s00283-025-10496-w)
    
-6. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+5. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
    Convolutional Neural Networks and Synthetic Spectral Image Features.**  
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
+   
 7.   **Domínguez-Monterroza A.**  
    **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
-   *Chaos, Solitons & Fractals*, 2025 (submitted).  
+   *Chaos, Solitons & Fractals*, 2025 (2n review, minor revisions).  
    Preprint: ([https://drive.google.com/file/d/1lzMj0xNfOElTkDn8Sw6k4xz0S0-jf5A0/view?usp=sharing](https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing))
-<!--
-7. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
+
+8. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
--->
-<!--
-8. **Domínguez-Monterroza A.**  
+   
+9. **Domínguez-Monterroza A.**  
   **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
   *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
  Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
--->
-9. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
+
+10. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
-<!--
-10. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+
+12. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Network geometry, topology, and spectral analysis in global stock markets: Insights  
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
-   *PLOS ONE*, 2025 (under review).  
-   Preprint: [link](https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link)
-   
-11. **Domínguez-Monterroza A.**  
+   *PLOS ONE*, 2025 (2nd review).  
+   Preprint:[https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link](https://drive.google.com/file/d/1mjzyZe41Xzvv3mtQ2Vlug8u-2yvsLFOE/view?usp=sharing)
+ <!--  
+13. **Domínguez-Monterroza A.**  
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/19m4uv1gg3prX4OUYtC_DjdI62_VmSEMt/view)
 -->
-12. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
+14. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Topological Data Analysis to characterize fluctuations in the Latin American Integrated Market (MILA).**  
    *Communications in Computer and Information Science*, Springer, 2023.  
    DOI: [10.1007/978-3-031-46739-4_18](https://doi.org/10.1007/978-3-031-46739-4_18)
