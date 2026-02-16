@@ -30,6 +30,10 @@ type: page
    Convolutional Neural Networks and Synthetic Spectral Image Features.**  
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
+7.   **Domínguez-Monterroza A.**  
+   **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
+   *Chaos, Solitons & Fractals*, 2025 (submitted).  
+   Preprint: ([https://drive.google.com/file/d/1lzMj0xNfOElTkDn8Sw6k4xz0S0-jf5A0/view?usp=sharing](https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing))
 <!--
 7. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
@@ -50,7 +54,7 @@ type: page
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
    *PLOS ONE*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link)
-
+   
 11. **Domínguez-Monterroza A.**  
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
@@ -81,12 +85,6 @@ type: page
    **Combined strategy for a reliable evaluation of spinal cord injury using an in vivo model.**  
    *Central Nervous System Agents In Medicinal Chemistry*, Vol 18, Issue 1, 2018.  
    DOI: [10.2174/1871524915666150819104114](http://dx.doi.org/10.2174/1871524915666150819104114)
-
-
-17. **Domínguez-Monterroza A.**  
-   **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
-   *Chaos, Solitons & Fractals*, 2025 (submitted).  
-   Preprint: [link](https://drive.google.com/file/d/1lzMj0xNfOElTkDn8Sw6k4xz0S0-jf5A0/view?usp=sharing)
 
 
 18. **Domínguez-Monterroza A.**  
