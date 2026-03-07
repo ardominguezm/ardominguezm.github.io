@@ -24,37 +24,38 @@ type: page
    **Mathematics on TikTok: Democratization or Distortion?**  
     *The Mathematical Intelligencer*, Jan 2026.
    DOI:[10.1007/s00283-025-10496-w](https://doi.org/10.1007/s00283-025-10496-w)
-   
+<!--   
 5. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Automated Detection of Parkinson’s Disease from Voice Recordings Using  
    Convolutional Neural Networks and Synthetic Spectral Image Features.**  
    *Neural Computing and Applications*, 2025 (under review).  
    Preprint: [link](https://drive.google.com/file/d/1VocHZRsipnR0OUZdDEADPkhdvSrVKUx8/view?usp=sharing)
-   
+   -->
 7.   **Domínguez-Monterroza A.**  
    **Universal Collapse and Sex-Dependent Scaling Laws in Human Performance and Aging.**  
-   *Chaos, Solitons & Fractals*, 2025 (2n review, minor revisions).
-   Preprint: (https://drive.google.com/file/d/1sEAUrAhtN0_OFSjH8nbW_svgK3PXcIPZ/view?usp=sharing)
-
+   *Chaos, Solitons & Fractals*, Volume 208, Part 2, July 2026, 118177. 
+   DOI: https://doi.org/10.1016/j.chaos.2026.118177
+<!-- 
 9. **Domínguez-Monterroza A.**  **Horizontal Visibility Graph Analysis Reveals Developmental Signatures of Cardiac Autonomic Regulation from Neonates to Adults**  *Annals of Biomedical Engineering*, 2025 (under review).
    Preprint: [link](https://drive.google.com/file/d/1ifJj65Ca7WoySx0Pn5IIE9x0rR33lfzH/view?usp=sharing)
-   
+
 10. **Domínguez-Monterroza A.**  
   **Quantifying Uncertainty in Human Performance: A Hierarchical Conformal Machine Learning Framework for Marathon Finish Time Prediction.**  
   *(under review)* — *IEEE Transactions on Artificial Intelligence, nov 2025*.  
  Preprint: [link](https://drive.google.com/file/d/1IdJhol6FvtbRylF75fTRjT9AYDcaRX9a/view?usp=sharing)
-
+  -->
 11. **Domínguez-Monterroza A., Jiménez-Martín A., Mateos-Caballero A.**  
    **Correlation structure of the Spanish stock market around COVID-19 using random matrix theory.**  
    *Computational Economics*, Springer-Nature, 2025.  
    DOI: [10.1007/s10614-024-10820-0](https://doi.org/10.1007/s10614-024-10820-0)
-
+<!--
 12. **Domínguez-Monterroza A., Mateos-Caballero A., Jiménez-Martín A.**  
    **Network geometry, topology, and spectral analysis in global stock markets: Insights  
    from using the Ricci Curvature, Euler characteristic, and random matrix theory.**  
    *PLOS ONE*, 2025 (2nd review).  
    Preprint:[https://drive.google.com/file/d/1tQVsiUxhkWqPvMz7JJWgyIZVxRAkrdVV/view?usp=drive_link](https://drive.google.com/file/d/1mjzyZe41Xzvv3mtQ2Vlug8u-2yvsLFOE/view?usp=sharing)
- <!--  
+ -->
+   <!--  
 13. **Domínguez-Monterroza A.**  
    **An Econophysics Perspective on Global Stock Market Dynamics during the COVID-19 Crisis.**  
    *Digital Finance*, Springer-Nature, 2025 (under review).  
@@ -86,12 +87,12 @@ type: page
    *Central Nervous System Agents In Medicinal Chemistry*, Vol 18, Issue 1, 2018.  
    DOI: [10.2174/1871524915666150819104114](http://dx.doi.org/10.2174/1871524915666150819104114)
 
-
+<!--
 18. **Domínguez-Monterroza A.**  
     **Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra in Data Science Education**  
     *Scatterplot: The MAA Journal of Data Science*, 2025 (under review).  
     Preprint: [link](https://drive.google.com/file/d/1FgRHrDwadPNkcGExesBlv-CquVqlTfBI/view?usp=sharing)
-
+-->
 19. **Medina-Hernandez E., Sierra Ibañes L., Domínguez-Monterroza A.**  
     **Multidimensional perspective of poverty in Colombian households.**  
     *Revista Sociedad y Economía*, 44, 2021.  
