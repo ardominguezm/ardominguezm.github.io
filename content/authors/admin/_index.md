@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "Researcher in Data Science, Applied Statistical and Complex Systems"
+role: "Researcher in Data Science, Applied Statistical and Complex Systems. Financial and Socio-tecnical Systems "
 
 # Organizations/Affiliations
 organizations:
