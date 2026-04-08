@@ -64,7 +64,7 @@ interests:
 
 # Education
 education:
-  - area: "PhD(c) in Mathematical Engineering, Statistics and Operations Research (ML Focus)"
+  - area: "PhD in Mathematical Engineering, Statistics and Operations Research (ML Focus)"
     institution: "Universidad Complutense de Madrid, Spain"
     icon: ""
     summary: |
